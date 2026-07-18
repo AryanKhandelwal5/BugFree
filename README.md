@@ -1,4 +1,4 @@
-# BugFree
+# BugFree - Turn You Code Into Production-level , Secure , Reliable & Scalable Code in 1 CLICK!
 
 BugFree is a beginner-friendly app that turns pasted code into a production-level , secure , safe , scalable ,reliable, error-free code efficiently. It helps developers spot likely bugs, edge cases, modern syntax practices, and severity before they ship.
 
