@@ -2,7 +2,7 @@
 
 BugFree is a beginner-friendly app that turns pasted code into a production-level , secure , safe , scalable ,reliable, error-free code efficiently. It helps developers spot likely bugs, edge cases, modern syntax practices, and severity before they ship.
 
-Built for **OpenAI Build Week**.
+Built for **OpenAI Build Week** using **GPT-5.6 Terra**.
 
 ## Features
 
@@ -41,24 +41,11 @@ Sample result:
 - Edge case: an empty list.
 - Syntax: Modern & Up-to-date already.
 
-## Publish to GitHub
-
-1. Create a new empty repository at [github.com/new](https://github.com/new).
-2. Run these commands in this folder (replace the URL with yours):
-
-   git init
-   git add .
-   git commit -m "Build TestPilot MVP"
-   git branch -M main
-   git remote add origin https://github.com/YOUR-USERNAME/testpilot.git
-   git push -u origin main
-
-3. Run `git status --ignored` before publishing. Confirm `.env` is listed as ignored, and confirm it is absent from GitHub.
-
 ## Known limitations
 
 - AI output can be incomplete or wrong, so review it before relying on it.
 - The MVP processes one snippet at a time.
+- It is still in progress so if you face any bugs do let me know it would be helpful.
 
 ## How we used Codex and GPT-5.6
 
