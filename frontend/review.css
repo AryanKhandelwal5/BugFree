@@ -1,0 +1,11 @@
+.review { margin:16px 0; border:1px solid #e5e2f1; border-radius:10px; overflow:hidden; }
+.review-title { display:flex; justify-content:space-between; align-items:center; padding:9px 11px; background:#f6f4ff; }
+.review-title h3 { margin:0; font:10px 'DM Mono',monospace; letter-spacing:1px; color:#6c5ce7; }
+.review-title span { color:#70758a; font-size:10px; }
+.review-code { margin:0; padding:8px 0; max-height:220px; overflow:auto; background:#202231; color:#eef1f4; font:11px/1.6 'DM Mono',monospace; }
+.review-line { display:block; position:relative; padding:2px 8px 2px 42px; white-space:pre-wrap; }
+.review-line i { position:absolute; left:10px; color:#8c91a1; font-style:normal; user-select:none; }
+.review-line b { display:block; margin-top:2px; font:10px Manrope,sans-serif; }
+.review-line.pink { background:#6e2d4d; border-left:3px solid #ff7d9b; }.review-line.pink b { color:#ffbbca; }
+.review-line.yellow { background:#5a4a18; border-left:3px solid #ffd65a; }.review-line.yellow b { color:#ffe8a0; }
+.review-line.blue { background:#253b64; border-left:3px solid #77b8ff; }.review-line.blue b { color:#b8d9ff; }

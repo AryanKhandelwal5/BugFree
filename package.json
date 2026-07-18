@@ -1,0 +1,9 @@
+{
+  "name": "bugfree", 
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI-powered production code reviewer and rewriter",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

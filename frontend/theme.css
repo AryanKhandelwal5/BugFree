@@ -1,0 +1,20 @@
+.theme-toggle { margin-left:auto; padding:7px 10px; border:1px solid #ded9fa; border-radius:99px; background:#fff; color:#554a9b; font-size:11px; font-weight:700; }
+.theme-toggle:hover { background:#eeeaff; color:#4439a1; }
+
+html[data-theme="dark"] body { background:linear-gradient(145deg,#171826,#1e1d33 48%,#17191f 100%); color:#f1f1f7; }
+html[data-theme="dark"] .brand { color:#f4f2ff; } html[data-theme="dark"] .badge { background:#2c294d; color:#cac5ff; }
+html[data-theme="dark"] .theme-toggle { background:#29283b; border-color:#46435f; color:#f2efff; }
+html[data-theme="dark"] .input-card, html[data-theme="dark"] .results { background:#222331; border-color:#3d3e53; box-shadow:none; }
+html[data-theme="dark"] .card-heading h2, html[data-theme="dark"] .results h2 { color:#f4f3fa; }
+html[data-theme="dark"] .card-heading p, html[data-theme="dark"] .intro, html[data-theme="dark"] .empty-state p, html[data-theme="dark"] .action-row span { color:#b6b6c8; }
+html[data-theme="dark"] textarea { background:#191a26; border-color:#414258; color:#f1f1f7; }
+html[data-theme="dark"] .input-meta { color:#9697ab; } html[data-theme="dark"] .input-meta button { color:#bdb5ff; }
+html[data-theme="dark"] .examples .example { background:#343547; color:#e0dff0; }
+html[data-theme="dark"] .promise span { background:#29283b; border-color:#45405f; color:#d6d0ff; }
+html[data-theme="dark"] .result-top { background:#222331; border-color:#3d3e53; }
+html[data-theme="dark"] .result-top p, html[data-theme="dark"] .result-section li, html[data-theme="dark"] .test p, html[data-theme="dark"] .fix p { color:#c5c5d4; }
+html[data-theme="dark"] .result-section li { border-color:#373849; } html[data-theme="dark"] .test, html[data-theme="dark"] .fix { background:#2a2a3b; }
+html[data-theme="dark"] .production-panel { background:linear-gradient(135deg,#2b2945,#242b3b); border-color:#49456d; }
+html[data-theme="dark"] .perfect-moment { background:linear-gradient(135deg,#193d31,#1c322d); border-color:#367b5b; } html[data-theme="dark"] .perfect-moment h2 { color:#98f1c2; } html[data-theme="dark"] .perfect-moment p { color:#c0e7d0; }
+html[data-theme="dark"] .readiness div { background:#303142; color:#cbcbd6; } html[data-theme="dark"] .readiness b { color:#fff; }
+html[data-theme="dark"] footer { color:#9b9baa; }

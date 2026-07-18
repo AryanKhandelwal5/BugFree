@@ -1,0 +1,6 @@
+.examples { display:flex; flex-wrap:wrap; align-items:center; gap:6px; margin-top:10px; }
+.examples > span { font-size:11px; color:#70758a; }
+.examples .example { background:#f1f0ed; color:#565b69; padding:5px 8px; border-radius:99px; font-size:10px; font-weight:600; }
+.examples .example:hover { background:#e5e1ff; color:#6c5ce7; }
+.demo-toggle { font-size:12px; font-weight:700; color:#4c5260; white-space:nowrap; }
+.demo-toggle input { accent-color:#6c5ce7; vertical-align:middle; margin-right:5px; }
