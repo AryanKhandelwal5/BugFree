@@ -1,6 +1,6 @@
-# BugFree - Turn You Code Into Production-level , Secure , Reliable & Scalable Code in 1 CLICK!
+# BugFree - Turn You Code Into Production-level , Secure , Reliable & Scalable Code with Most Modern Syntax in 1 CLICK!
 
-BugFree is a beginner-friendly app that turns pasted code into a production-level , secure , safe , scalable ,reliable, error-free code efficiently. It helps developers spot likely bugs, edge cases, modern syntax practices, and severity before they ship.
+BugFree is a beginner-friendly app that turns your pasted code into a Production-level, Secure, Safe, Scalable, Reliable, Error-free code efficiently in just 1 CLICK . It helps developers spot likely bugs, edge cases they might be missing , modern syntax practices, and severity before they ship.
 
 Built for **OpenAI Build Week** using **GPT-5.6 Terra**.
 
