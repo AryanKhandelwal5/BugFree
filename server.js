@@ -6,7 +6,7 @@ const path = require("path");
 
 loadEnv();
 
-const publicFolder = path.join(__dirname, "public");
+const publicFolder = path.join(__dirname, "frontend");
 const port = Number(process.env.PORT || 3000);
 
 function loadEnv() {
