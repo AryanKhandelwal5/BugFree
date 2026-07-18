@@ -17,15 +17,6 @@ Built for **OpenAI Build Week** using **GPT-5.6 Terra**.
 - Node.js built-in HTTP server
 - Local Node.js rule engine;
 
-## Setup and running locally
-
-1. Install [Node.js](https://nodejs.org/) 18 or later.
-2. Open a terminal in this folder.
-3. Run `npm start`. If PowerShell says scripts are disabled, run `npm.cmd start` instead.
-4. Open `http://localhost:3000`.
-
-No local package install is required; the browser loads the React runtime. An internet connection is needed for the UI runtime and OpenAI analysis.
-
 ## Example
 
 Input:
